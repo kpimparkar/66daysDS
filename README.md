@@ -1,6 +1,6 @@
 # 66daysDS
 
-```html
+
 <table border="0" cellpadding="0" cellspacing="0" class="month">
 <tr><th colspan="7" class="month">January 2021</th></tr>
 <tr><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th><th class="sun">Sun</th></tr>   
@@ -34,4 +34,3 @@ class="wed"><strong><a href=https://github.com/kpimparkar/66daysDS; style="backg
 <tr><td class="mon">29</td><td class="tue">30</td><td class="wed">31</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td 
 class="noday">&nbsp;</td><td class="noday">&nbsp;</td></tr>
 </table>
-```
