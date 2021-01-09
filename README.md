@@ -1,5 +1,17 @@
 # 66daysDS
 
+## Learning goals and deliverables
+<!-- mark comple with &check; -->
+|S. No.|Learning Goal|Deliverable|Status|
+|-----|-------------|-----------|------|
+|1|Regression|Project1|[ ]|
+|2|Classification|Project2|[ ]|
+|3|Clustering|Project3|[ ]|
+|4|Deep learning|Project4|[ ]|
+|5|Code repo|Snippets' notebook|[ ]|
+|6|GitHub Pages|Portfolio website|[ ]|
+
+## Calendar  
 
 <table border="0" cellpadding="0" cellspacing="0" class="month">
 <tr><th colspan="7" class="month">January 2021</th></tr>
